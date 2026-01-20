@@ -30,8 +30,7 @@ Live sensor data is streamed and visualized through a Python-based interface, en
 ### Python Libraries
 - pyserial – Serial communication with Arduino
 - matplotlib – Real-time data plotting
-- numpy – Numerical data processing
-- time – Timing and sampling control
+
 
 ---
 
