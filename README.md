@@ -9,7 +9,7 @@ Live sensor data is streamed and visualized through a Python-based interface, en
 
 ### 🔌 Hardware Monitoring
 - **Temperature Tracking**: Real-time temperature measurement using the DS18B20 sensor
-- **Voltage Monitoring**: Accurate jkvoltage sensing via the INA219 module
+- **Voltage Monitoring**: Accurate voltage sensing via the INA219 module
 - **Current Measurement**: Continuous current tracking for power analysis
 
 ### 🖥️ Software Interface
