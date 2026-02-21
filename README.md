@@ -34,24 +34,6 @@ Live sensor data is streamed and visualized through a Python-based interface, en
 
 ---
 
-## 🗂️ File Structure
-
-PyMon/
-│
-├── arduino/
-│   └── pymon.ino            # Arduino firmware
-│
-├── python/
-│   ├── main.py              # Data acquisition & visualization
-│   └── utils.py             # Helper functions
-│
-├── docs/
-│   └── wiring_diagram.png   # Hardware wiring diagram
-│
-└── README.md                # Project documentation
-
----
-
 ## 🔄 Project Workflow
 
 1. Arduino reads temperature, voltage, and current data from connected sensors.
